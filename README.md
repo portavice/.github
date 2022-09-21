@@ -1,4 +1,4 @@
-<h1 align="center">Hi, We are portavice</h1>
+<h1 align="center">Hi, wir sind portavice</h1>
 
 # Über uns
 Wir sind ein stark wachsendes 13-köpfiges Team von kreativen Leuten, die Spaß am Coden haben. Natürlich können wir alles bedienen und automatisieren, was einen Stecker hat. Aber unsere Schwerpunkte liegen in den Bereichen Softwareentwicklung, Digitialisierung und Prozessautomatisierung.
